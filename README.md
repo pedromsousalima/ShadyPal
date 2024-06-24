@@ -1,5 +1,5 @@
 # ShadyPal
-ShadyPal is a straightforward tool for generating color palettes from images. Inspect dominant colors from any PNG file and create varied palettes with different levels of saturation, lightness, and shading. Perfect for designers and artists looking to create custom color palettes.
+ShadyPal is a straightforward (and mostly useless) tool for generating color palettes from images. Inspect dominant colors from any PNG file and create varied palettes with different levels of saturation, lightness, and shading. Perfect for designers and artists looking to create custom color palettes.
 
 ## Features
 - Extract (a custom number of) dominant colors from any PNG image (via ColorThief).
